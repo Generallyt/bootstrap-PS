@@ -16,8 +16,7 @@ text-align: center;
     
 }
 .gal-img{
-    height: 200%;
-    width: 200%;
+    height: 400px;
 }
 .Gallery-section{
     text-align: center;
@@ -45,5 +44,4 @@ p{
 }
 .act-img{
     margin:5px;
-}
 }
